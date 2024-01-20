@@ -10,7 +10,7 @@ const Navbar = () => {
                     <h1 className="font-bold text-2xl">AnimeBrow</h1>
                 </Link>
             </div>
-            <div className="flex gap-3 md:w-96">
+            <div className="flex gap-3 md:w-72">
                 <InputSearch />
             </div>
                 <UserActionButton />
